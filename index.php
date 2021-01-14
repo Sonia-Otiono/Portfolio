@@ -20,7 +20,7 @@
 								<a href="#two" class="scrolly">Portfolio</a>
 							</li>
 							<li><a href="#eight" class="scrolly">CV Mail</a></li>
-							<li><a href="#" class="button primary">Download CV</a></li>
+							<li><a href="https://www.dropbox.com/scl/fi/a5bp5rxepmuow4teitbri/Sonia-Otiono-CV.docx?dl=1&rlkey=f6t1cx5p3jjznjbwp21uj9qg2" class="button primary">Download CV</a></li>
 						</ul>
 					</nav>
 				</header>
