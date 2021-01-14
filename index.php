@@ -30,7 +30,7 @@
 					<div class="content">
 						<header>
 							<h2>Sonia Otiono</h2>
-							<p>FULLSTACK DEVELOPER.<br />
+							<p>FRONTEND DEVELOPER.<br />
 							I solve problems, using programming languages.</p>
 						</header>
 						<span class="image"><img src="images/sonia1.jpg" alt="" /></span>
@@ -117,7 +117,7 @@
 							<li><a href="https://sonia-otiono.github.io/guess" class="button">Learn More</a></li>
 						</ul>
 					</div>
-					<a href="#three" class="goto-next scrolly">Next</a>
+					<a href="#five" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- Three -->
@@ -133,21 +133,21 @@
 							<li><a href="https://sonia-otiono.github.io/quotes" class="button">Learn More</a></li>
 						</ul>
 					</div>
-					<a href="#four" class="goto-next scrolly">Next</a>
+					<a href="#six" class="goto-next scrolly">Next</a>
 				</section>
 				<section id="six" class="spotlight style2 right">
 					<span class="image fit main"><img src="images/TC.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Temperature Converter</h2>
-							<p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+							<p>Converts Temperature From Celcius to Fahrenheit and Vice-Versa.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p>Built using HTML, CSS and Javascript.</p>
 						<ul class="actions">
 							<li><a href="https://sonia-otiono.github.io/temp1" class="button">Learn More</a></li>
 						</ul>
 					</div>
-					<a href="#three" class="goto-next scrolly">Next</a>
+					<a href="#seven" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- Three -->
@@ -156,14 +156,14 @@
 					<div class="content">
 						<header>
 							<h2>Photobook</h2>
-							<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+							<p>Photos of some participants in the LadiesAtWork Program.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
+						<p></p>
 						<ul class="actions">
 							<li><a href="https://sonia-otiono.github.io/photobook" class="button">Learn More</a></li>
 						</ul>
 					</div>
-					<a href="#four" class="goto-next scrolly">Next</a>
+					<a href="#eight" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- Four -->
