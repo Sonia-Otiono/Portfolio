@@ -19,8 +19,8 @@
 							<li>
 								<a href="#two" class="scrolly">Portfolio</a>
 							</li>
-							<li><a href="#eight" class="scrolly">CV Mail</a></li>
-							<li><a href="https://www.dropbox.com/scl/fi/a5bp5rxepmuow4teitbri/Sonia-Otiono-CV.docx?dl=1&rlkey=f6t1cx5p3jjznjbwp21uj9qg2" class="button primary">Download CV</a></li>
+							<!-- <li><a href="#eight" class="scrolly">CV Mail</a></li> -->
+							<li><a href="https://www.dropbox.com/s/of46kws1m7t0hiy/Sonia%20Otiono%20CV.pdf?dl=1" class="button primary">Download CV</a></li>
 						</ul>
 					</nav>
 				</header>
@@ -110,7 +110,7 @@
 							<h2>Mini Lucky Game Application</h2>
 							<p>Popularly known as Javascript 'guess game'.</p>
 						</header>
-						<p>This application required the use of HTML, CSS and Javscript mainly for the generation of random letters and
+						<p>This application required the use of Javscript mainly for the generation of random letters and
 							also the identification of the third letter for any word or value entered in the input field.
 						</p>
 						<ul class="actions">
@@ -120,13 +120,12 @@
 					<a href="#five" class="goto-next scrolly">Next</a>
 				</section>
 
-			<!-- Three -->
 				<section id="five" class="spotlight style3 left">
 					<span class="image fit main bottom"><img src="images/RQ.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Random Quotes Generator</h2>
-							<p>Technologies Used: HTML, CSS and Javascript</p>
+							<p>Generation of quotes randomly. Built using Javascript.</p>
 						</header>
 						<p></p>
 						<ul class="actions">
@@ -147,11 +146,10 @@
 							<li><a href="https://sonia-otiono.github.io/temp1" class="button">Learn More</a></li>
 						</ul>
 					</div>
-					<a href="#seven" class="goto-next scrolly">Next</a>
+					<!-- <a href="#seven" class="goto-next scrolly">Next</a> -->
 				</section>
 
-			<!-- Three -->
-				<section id="seven" class="spotlight style3 left">
+				<!-- <section id="seven" class="spotlight style3 left">
 					<span class="image fit main bottom"><img src="images/pb.jpg" alt="" /></span>
 					<div class="content">
 						<header>
@@ -164,7 +162,7 @@
 						</ul>
 					</div>
 					<a href="#eight" class="goto-next scrolly">Next</a>
-				</section>
+				</section> -->
 
 			<!-- Four -->
 				<!-- <section id="four" class="wrapper style1 special fade-up">
@@ -216,7 +214,7 @@
 				</section> -->
 
 			<!-- Five -->
-				<section id="eight" class="wrapper style2 special fade">
+				<!-- <section id="eight" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
 							<h2>Curriculum Vitae</h2>
@@ -229,7 +227,7 @@
 							</div>
 						</form>
 					</div>
-				</section>
+				</section> -->
 
 			<!-- Footer -->
 				<footer id="footer">
